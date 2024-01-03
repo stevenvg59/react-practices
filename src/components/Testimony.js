@@ -7,7 +7,7 @@ return(
 		<img 
 			className='image-testimony'
 			src={require(`../images/${props.image}.png`)}
-			alt='{props.image} photography' />
+			alt='Emma photography' />
 		<div className='container-text-testimony'>
 			<p className='name-testimony'>
 				<strong>{props.name}</strong> in {props.country}
